@@ -17,6 +17,13 @@
 ## 2주차.
 
 
+| 문제 | ehgud0670 | Choyoonyoung98 |  
+| --- | --- | --------- |
+| 문자열 뒤집기 |  |   | 
+| 만들 수 없는 금액 |  |  | 
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |    |  |
+| [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |   |  |
+
 ## 3주차.
 
 
