@@ -3,6 +3,7 @@
 **(일요일) 자정까지**  
 - 이것이 코딩테스트다 4문제
 - 프로그래머스 2문제
+- [풀이 Github](https://github.com/ndb796/python-for-coding-test)
 
 ## 1주차
 
