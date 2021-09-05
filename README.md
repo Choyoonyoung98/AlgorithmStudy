@@ -5,7 +5,7 @@
 - 프로그래머스 2문제
 - [풀이 Github](https://github.com/ndb796/python-for-coding-test)
 
-## 1주차
+## 1주차 - 그리디
 
 | 문제 | ehgud0670 | Choyoonyoung98 |  
 | --- | --- | --------- |
@@ -14,7 +14,7 @@
 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [path](./ehgud0670/그리디/조이스틱.md)   |  [풀이](yoonyoung/그리디%20/조이스틱.md)|
 | [큰 수 만들기](https://programmers.co.kr/learn/courses/9899/lessons/55829) |   |  [풀이](yoonyoung/그리디%20/큰_수_만들기.md)|
 
-## 2주차.
+## 2주차 - 그리디
 
 | 문제 | ehgud0670 | Choyoonyoung98 |  
 | --- | --- | --------- |
@@ -23,7 +23,7 @@
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |    |  [풀이](yoonyoung/그리디%20/구명보트.md)|
 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |   |  [풀이](yoonyoung/그리디%20/섬_연결하기.md)|
 
-## 3주차.
+## 3주차 - 그리디
 
 | 문제 | ehgud0670 | Choyoonyoung98 |  
 | --- | --- | --------- |
