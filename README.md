@@ -39,7 +39,7 @@
 | --- | --- | --------- |
 | 문자열 재정렬 |  |   | 
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  | 
-| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |    |  [풀이](yoonyoung/그리디%20/볼링공_고르기.md)|
-| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |   |  [풀이](yoonyoung/그리디%20/섬_연결하기.md)|
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |    |  |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |   |  |
 
 ## 5주차.
