@@ -1,8 +1,11 @@
 # AlgorithmStudy
 
 **(일요일) 자정까지**  
-- 이것이 코딩테스트다 2문제
-- 프로그래머스 2문제
+- [필수] 이것이 코딩테스트다 2문제
+- [필수] 프로그래머스 1문제
+- (선택) 보너스 문제 2문제: 프로그래머스 2-3단계 중 무작위 선정
+> 보너스 문제는 다른 문제 푸셔도 됩니다! 
+
 - [풀이 Github](https://github.com/ndb796/python-for-coding-test)
 
 ## 1주차 - 그리디
@@ -33,13 +36,13 @@
 | 럭키스트레이트 |   |  [풀이](yoonyoung/그리디%20/섬_연결하기.md)|
 
 ## 4주차 - 구현 & 해시
-> 이번 주 목표: 다른 풀이 방법이 있다고 하더라도 주제에 맞게 푸는 것을 우선으로 한다!
 
-| 문제 | ehgud0670 | Choyoonyoung98 |  
-| --- | --- | --------- |
-| 문자열 재정렬 |  |   | 
-| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  | 
-| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |    |  |
-| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |   |  |
+| 문제 | ehgud0670 | Choyoonyoung98 | minkj1992 | yeojaeng |
+| --- | --- | --- | --- | --- |
+| 문자열 재정렬 |  |  |  |  |
+| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  |  |  |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  |  |  |  |
+| [+) 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) |   |  |  |  |
+| [+) 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) |   |  |  |  |
 
 ## 5주차.
