@@ -33,7 +33,7 @@ def solution(s):
                 count+=1
         else:
             # 마지막의 경우, 업데이트 되지 않았으니 다시 시도
-            res += len(nxt_tkn) if count == 1  else calculate(count, step)
+            extra_size = len(nxt_tkn) if count == 1  else calculate(count, step)
         return res + extra_size
 
     n = len(s)
