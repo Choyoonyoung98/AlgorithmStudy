@@ -41,7 +41,7 @@
 | --- | --- | --- | --- | --- |
 | 문자열 재정렬 |  |  |  |  |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  | [풀이](leoo/문자열압축.py) |  |
-| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  |  |  |  |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  |  | [풀이](leoo/문자열압축.py) |  |
 | [+) 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) |   |  |  |  |
 | [+) 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) |   |  |  |  |
 
