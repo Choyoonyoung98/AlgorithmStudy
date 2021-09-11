@@ -32,8 +32,8 @@ def solution(s):
             else:
                 count+=1
         else:
-            # 마지막의 경우, 업데이트 되지 않았으니 다시 시도
-            extra_size = len(nxt_tkn) if count == 1  else calculate(count, step)
+            # 마지막의 경우, step보다 작다면 길이만큼 더하고 아니라면 calculate
+            extra_size = len(nxt_tkn) if step > len(nxt_tkn) else calculate(count, step)
         return res + extra_size
 
     n = len(s)
