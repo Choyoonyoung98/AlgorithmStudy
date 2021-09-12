@@ -49,4 +49,12 @@
 | [+) 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) |   |  |  | [풀이](yeojaeng/구현&해시/오픈채팅방.md) | 
 | [+) 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) |   |  |  |  |
 
-## 5주차.
+## 5주차 - 구현 & 해시
+
+| 문제 | ehgud0670 | Choyoonyoung98 | minkj1992 | yeojaeng |
+| --- | --- | --- | --- | --- |
+| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |  |  | | |
+| [뱀](https://www.acmicpc.net/problem/3190) |  |  | |  |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  |  |  |  | 
+| [+) Two Sum](https://leetcode.com/problems/two-sum/) |   |  |  |  | 
+| [+) Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   |  |  |  |
