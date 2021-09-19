@@ -43,9 +43,9 @@
 
 | 문제 | ehgud0670 | Choyoonyoung98 | minkj1992 | yeojaeng |
 | --- | --- | --- | --- | --- |
-| 문자열 재정렬 |  |  [풀이](yoonyoung/4주차/문자열_재정렬.swift)| [풀이](leoo/문자열재정렬.py)  | [풀이](yeojaeng/구현&해시/문자열%20재정렬.md)  |
-| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  [풀이](yoonyoung/4주차/문자열_압축.swift)| [풀이](leoo/문자열압축.py) |  |
-| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  |  [풀이](yoonyoung/4주차/전화번호_목록.swift)| [풀이](leoo/전화번호목록.py) | [풀이](yeojaeng/구현&해시/전화번호%20목록.md) | 
+| 문자열 재정렬 |  |  [풀이](yoonyoung/4주차/문자열_재정렬.swift)| [풀이](leoo/string/문자열재정렬.py)  | [풀이](yeojaeng/구현&해시/문자열%20재정렬.md)  |
+| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  [풀이](yoonyoung/4주차/문자열_압축.swift)| [풀이](leoo/string/문자열압축.py) |  |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  |  [풀이](yoonyoung/4주차/전화번호_목록.swift)| [풀이](leoo/string/전화번호목록.py) | [풀이](yeojaeng/구현&해시/전화번호%20목록.md) | 
 | [+) 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) |   |  |  | [풀이](yeojaeng/구현&해시/오픈채팅방.md) | 
 | [+) 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) |   |  |  |  |
 
@@ -53,8 +53,8 @@
 
 | 문제 | ehgud0670 | Choyoonyoung98 | minkj1992 | yeojaeng |
 | --- | --- | --- | --- | --- |
-| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |  |  | | |
-| [뱀](https://www.acmicpc.net/problem/3190) |  |  | |  |
-| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  |  |  |  | 
+| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |  |  | [풀이](leoo/hash/자물쇠와_열쇠.py) | |
+| [뱀](https://www.acmicpc.net/problem/3190) |  |  | [풀이](leoo/hash/뱀.py) |  |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  |  | [풀이](leoo/hash/위장.py) |  | 
 | [+) Two Sum](https://leetcode.com/problems/two-sum/) |   |  |  |  | 
 | [+) Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   |  |  |  |
