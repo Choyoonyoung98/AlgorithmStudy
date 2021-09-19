@@ -1,8 +1,8 @@
 """
-문자열 압축
+string 압축
 https://programmers.co.kr/learn/courses/30/lessons/60057
 
-in: 압축전 문자열
+in: 압축전 string
 out: 최소 압축 길이
 cond
   - s의 길이는 1 이상 1,000 이하입니다.
