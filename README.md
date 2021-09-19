@@ -53,8 +53,8 @@
 
 | 문제 | ehgud0670 | Choyoonyoung98 | minkj1992 | yeojaeng |
 | --- | --- | --- | --- | --- |
-| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |  |  | [풀이](leoo/hash/자물쇠와_열쇠.py) | |
-| [뱀](https://www.acmicpc.net/problem/3190) |  |  | [풀이](leoo/hash/뱀.py) |  |
-| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  |  | [풀이](leoo/hash/위장.py) |  | 
+| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) |  |  | [풀이](leoo/hash/자물쇠와_열쇠.py) |[풀이](yeojaeng/구현&해시/자물쇠와%20열쇠.md)|
+| [뱀](https://www.acmicpc.net/problem/3190) |  |  | [풀이](leoo/hash/뱀.py) |[풀이](yeojaeng/구현&해시/뱀.md)|
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  |  | [풀이](leoo/hash/위장.py) |[풀이](yeojaeng/구현&해시/위장.md)| 
 | [+) Two Sum](https://leetcode.com/problems/two-sum/) |   |  |  |  | 
 | [+) Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   |  |  |  |
