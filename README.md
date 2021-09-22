@@ -60,7 +60,7 @@
 | [+) Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   |  |  |  |
 
 
-## 6주차
+## 6주차 - 구현 & 해시
 
 | 문제 | ehgud0670 | Choyoonyoung98 | minkj1992 | yeojaeng |
 | --- | --- | --- | --- | --- |
