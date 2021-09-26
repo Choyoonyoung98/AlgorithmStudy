@@ -48,5 +48,4 @@ class Solution:
 
 s = Solution()
 s.init()
-
 print(s.get_min_chicken_distance())
