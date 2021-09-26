@@ -25,8 +25,3 @@ def solution(genres, plays):
         for i, play in get_sorted_genre(gen_2_list[g])[:2]:  # 재생된 노래를 두 개씩 모아 베스트 앨범을 출시하려 합니다.
             answer.append(i)
     return answer
-
-
-g = ["classic", "pop", "classic", "classic", "pop"]
-p = [500, 600, 150, 800, 2500]
-print(solution(g, p))

@@ -65,7 +65,7 @@
 | 문제 | ehgud0670 | Choyoonyoung98 | minkj1992 | yeojaeng |
 | --- | --- | --- | --- | --- |
 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) |  |  | [풀이](leoo/hash/기둥과_보_설치.py) | |
-| [치킨 배달](https://www.acmicpc.net/problem/15686) |  |  | [풀이](leoo/hash/치킨배.py) |  |
-| [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |  |  | [풀이](leoo/hash/베스트앨범.py) |  | 
+| [치킨 배달](https://www.acmicpc.net/problem/15686) |  |  [풀이](yoonyoung/6주차/치킨_배달.swift)| [풀이](leoo/hash/치킨배달.py) |  |
+| [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |  |  [풀이](yoonyoung/6주차/베스트_앨범.swift)| [풀이](leoo/hash/베스트앨범.py)  |  | 
 | [+) Two Sum](https://leetcode.com/problems/two-sum/) |   |  |  |  | 
 | [+) Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   |  |  |  |
